@@ -5,3 +5,5 @@ Git tracks changes.
 I love git.
 creating a new branch is quick and simple.
 git merge.
+hahahah。
+nice.
